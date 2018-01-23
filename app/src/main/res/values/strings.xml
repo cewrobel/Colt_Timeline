@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Timeline</string>
+    <string name="timelineButton">Timeline Options</string>
+    <string name="toolsButton">Tools</string>
+    <string name="settingsButton">Settings</string>
+    <string name="dateBox">Date</string>
+    <string name="timeBox">Time</string>
+    <string name="eventPreview">Event Preview</string>
 </resources>
