@@ -6,4 +6,5 @@
     <string name="dateBox">Date</string>
     <string name="timeBox">Time</string>
     <string name="eventPreview">Event Preview</string>
+    <string name="getDateTime">Select Date/Time</string>
 </resources>
