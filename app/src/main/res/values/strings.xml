@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Timeline_22</string>
-    <string name="btnTools">Tools</string>
-    <string name="btnTimelineOptions">Timeline Options</string>
-    <string name="btnSettings">Settings</string>
-    <string name="eventPreview">placeholder for eventPreview</string>
-    <string name="toolbar_title">Timeline</string>
-
-</resources>
